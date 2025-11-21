@@ -42,8 +42,8 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 ```
 **PROGRAM**
 ```
- Developed by:SAHANA S
- RegisterNumber:25015837
+ Developed by:J Jayasuriya
+ RegisterNumber:212223230088
 
 module jkff(j,k,clk,q,qbar);
 input j,k,clk;
